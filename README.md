@@ -1,7 +1,7 @@
-##Seguro Insights PA
+<h2>Seguro Insights PA</h2>
+
 Seguro Insights PA é um projeto de extensão que utiliza técnicas de Big Data e análise de dados para fornecer insights sobre áreas de maior risco de acidentes em Porto Alegre. Nosso objetivo é auxiliar corretoras de seguros a identificar oportunidades de venda de seguros de acidentes pessoais e de carros, aumentando a eficácia de suas campanhas.
 
-Visão Geral
 Este projeto faz uso de uma base de dados pública de acidentes de trânsito, aplicando ferramentas como Python e a biblioteca pandas para transformar dados brutos em visualizações úteis. A análise é voltada para a comunidade de corretoras de seguros, ajudando-as a planejar campanhas baseadas em dados de risco de acidentes.
 
 <h3>Funcionalidades</h3>
